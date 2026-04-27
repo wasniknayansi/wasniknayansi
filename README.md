@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Working in **Solar Energy & SCADA-based Remote Monitoring Systems**
+- 🔭 Intrested in working on **Solar Energy & SCADA-based Remote Monitoring Systems**
 - 🌱 Hands-on experience with **Modbus RTU/TCP · RS485 · UART · I2C**
 - 💻 Building with **Embedded C · C++ · Python (OpenCV, Streamlit, CNN)**
 - ⚡ Passionate about **Renewable Energy · Industrial Automation · IoT**
